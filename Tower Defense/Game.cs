@@ -2,7 +2,7 @@
 
 namespace Tower_Defense
 {
-    class Game
+    internal class Game
     {
         public static void Main()
         {
